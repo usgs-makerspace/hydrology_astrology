@@ -1,0 +1,297 @@
+[
+ {
+   "State Cd": 1,
+   "State": "AL",
+   "Name": "Alabama"
+ },
+ {
+   "State Cd": 2,
+   "State": "AK",
+   "Name": "Alaska"
+ },
+ {
+   "State Cd": 4,
+   "State": "AZ",
+   "Name": "Arizona"
+ },
+ {
+   "State Cd": 5,
+   "State": "AR",
+   "Name": "Arkansas"
+ },
+ {
+   "State Cd": 6,
+   "State": "CA",
+   "Name": "California"
+ },
+ {
+   "State Cd": 8,
+   "State": "CO",
+   "Name": "Colorado"
+ },
+ {
+   "State Cd": 9,
+   "State": "CT",
+   "Name": "Connecticut"
+ },
+ {
+   "State Cd": 10,
+   "State": "DE",
+   "Name": "Delaware"
+ },
+ {
+   "State Cd": 11,
+   "State": "DC",
+   "Name": "District of Columbia"
+ },
+ {
+   "State Cd": 12,
+   "State": "FL",
+   "Name": "Florida"
+ },
+ {
+   "State Cd": 13,
+   "State": "GA",
+   "Name": "Georgia"
+ },
+ {
+   "State Cd": 15,
+   "State": "HI",
+   "Name": "Hawaii"
+ },
+ {
+   "State Cd": 16,
+   "State": "ID",
+   "Name": "Idaho"
+ },
+ {
+   "State Cd": 17,
+   "State": "IL",
+   "Name": "Illinois"
+ },
+ {
+   "State Cd": 18,
+   "State": "IN",
+   "Name": "Indiana"
+ },
+ {
+   "State Cd": 19,
+   "State": "IA",
+   "Name": "Iowa"
+ },
+ {
+   "State Cd": 20,
+   "State": "KS",
+   "Name": "Kansas"
+ },
+ {
+   "State Cd": 21,
+   "State": "KY",
+   "Name": "Kentucky"
+ },
+ {
+   "State Cd": 22,
+   "State": "LA",
+   "Name": "Louisiana"
+ },
+ {
+   "State Cd": 23,
+   "State": "ME",
+   "Name": "Maine"
+ },
+ {
+   "State Cd": 24,
+   "State": "MD",
+   "Name": "Maryland"
+ },
+ {
+   "State Cd": 25,
+   "State": "MA",
+   "Name": "Massachusetts"
+ },
+ {
+   "State Cd": 26,
+   "State": "MI",
+   "Name": "Michigan"
+ },
+ {
+   "State Cd": 27,
+   "State": "MN",
+   "Name": "Minnesota"
+ },
+ {
+   "State Cd": 28,
+   "State": "MS",
+   "Name": "Mississippi"
+ },
+ {
+   "State Cd": 29,
+   "State": "MO",
+   "Name": "Missouri"
+ },
+ {
+   "State Cd": 30,
+   "State": "MT",
+   "Name": "Montana"
+ },
+ {
+   "State Cd": 31,
+   "State": "NE",
+   "Name": "Nebraska"
+ },
+ {
+   "State Cd": 32,
+   "State": "NV",
+   "Name": "Nevada"
+ },
+ {
+   "State Cd": 33,
+   "State": "NH",
+   "Name": "New Hampshire"
+ },
+ {
+   "State Cd": 34,
+   "State": "NJ",
+   "Name": "New Jersey"
+ },
+ {
+   "State Cd": 35,
+   "State": "NM",
+   "Name": "New Mexico"
+ },
+ {
+   "State Cd": 36,
+   "State": "NY",
+   "Name": "New York"
+ },
+ {
+   "State Cd": 37,
+   "State": "NC",
+   "Name": "North Carolina"
+ },
+ {
+   "State Cd": 38,
+   "State": "ND",
+   "Name": "North Dakota"
+ },
+ {
+   "State Cd": 39,
+   "State": "OH",
+   "Name": "Ohio"
+ },
+ {
+   "State Cd": 40,
+   "State": "OK",
+   "Name": "Oklahoma"
+ },
+ {
+   "State Cd": 41,
+   "State": "OR",
+   "Name": "Oregon"
+ },
+ {
+   "State Cd": 42,
+   "State": "PA",
+   "Name": "Pennsylvania"
+ },
+ {
+   "State Cd": 44,
+   "State": "RI",
+   "Name": "Rhode Island"
+ },
+ {
+   "State Cd": 45,
+   "State": "SC",
+   "Name": "South Carolina"
+ },
+ {
+   "State Cd": 46,
+   "State": "SD",
+   "Name": "South Dakota"
+ },
+ {
+   "State Cd": 47,
+   "State": "TN",
+   "Name": "Tennessee"
+ },
+ {
+   "State Cd": 48,
+   "State": "TX",
+   "Name": "Texas"
+ },
+ {
+   "State Cd": 49,
+   "State": "UT",
+   "Name": "Utah"
+ },
+ {
+   "State Cd": 50,
+   "State": "VT",
+   "Name": "Vermont"
+ },
+ {
+   "State Cd": 51,
+   "State": "VA",
+   "Name": "Virginia"
+ },
+ {
+   "State Cd": 53,
+   "State": "WA",
+   "Name": "Washington"
+ },
+ {
+   "State Cd": 54,
+   "State": "WV",
+   "Name": "West Virginia"
+ },
+ {
+   "State Cd": 55,
+   "State": "WI",
+   "Name": "Wisconsin"
+ },
+ {
+   "State Cd": 56,
+   "State": "WY",
+   "Name": "Wyoming"
+ },
+ {
+   "State Cd": 60,
+   "State": "AS",
+   "Name": "American Samoa"
+ },
+ {
+   "State Cd": 64,
+   "State": "FM",
+   "Name": "Federated States of Micronesia"
+ },
+ {
+   "State Cd": 66,
+   "State": "GU",
+   "Name": "Guam"
+ },
+ {
+   "State Cd": 68,
+   "State": "MH",
+   "Name": "Marshall Islands"
+ },
+ {
+   "State Cd": 69,
+   "State": "MP",
+   "Name": "Northern Mariana Islands"
+ },
+ {
+   "State Cd": 70,
+   "State": "PW",
+   "Name": "Palau"
+ },
+ {
+   "State Cd": 72,
+   "State": "PR",
+   "Name": "Puerto Rico"
+ },
+ {
+   "State Cd": 78,
+   "State": "VI",
+   "Name": "Virgin Islands of the U.S."
+ }
+]
