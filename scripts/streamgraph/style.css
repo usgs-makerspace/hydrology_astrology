@@ -44,8 +44,9 @@ a {
     fill: white;
 }
 
-.tick-label{
-    
+.tick-label text{
+   
     fill: white;
+    opacity: .2;
 
 }

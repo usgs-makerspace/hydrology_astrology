@@ -702,6 +702,7 @@ function fetchData() {
 
                 svg.append("g")
                     .attr("transform", "translate(0," + height*0.8 + ")")
+                    .attr("class", "tick-label")
                     .call(d3.axisBottom(x)
                         .tickSize(-height*.01)
                         .tickFormat(d3.timeFormat("%m-%d-%Y"))
