@@ -22,7 +22,7 @@
   <h1 class="spinner">{{ title }}</h1> 
   <h1 class="spinner">{{ title }}</h1> 
   <h1 class="spinner">{{ title }}</h1> 
-    <h1 class="spinner">{{ title }}</h1> 
+  <h1 class="spinner">{{ title }}</h1> 
   <h1 class="spinner">{{ title }}</h1> 
   <h1 class="spinner">{{ title }}</h1> 
   <h1 class="spinner">{{ title }}</h1> 
